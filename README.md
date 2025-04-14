@@ -1,6 +1,6 @@
 <!-- header -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=220&section=header&text=gayeong&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=240&section=header&text=gayeong&fontSize=60"/>
 </p>
 
 <!-- Contact badge -->
@@ -38,19 +38,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </p>
+
+
 <!-- Tools -->
+## 🛠️ Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-<!-- 사용한 언어 순위 카드 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung228&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!-- GitHub Stats Card -->
-[![Gayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung228&show_icons=true&theme=react)](https://github.com/gayoung228/github-readme-stats)
+<!-- GitHub Stats Card --><!-- 사용한 언어 순위 카드 -->
+[![Gayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung228&show_icons=true&theme=react)](https://github.com/gayoung228/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung228&layout=compact&theme=github_dark&cache_seconds=30)](https://github.com/gayoung228/gayoung228)
 
 <!-- 프로젝트 -->
 ## 💾 Projects
