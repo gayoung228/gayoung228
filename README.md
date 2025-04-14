@@ -56,8 +56,8 @@
 ## 💾 Projects
 |프로젝트|프로젝트설명|기간|주관처|참고|
 |:---:|:---:|:---:|:---:|:---:|
-|<strong>[윗비트래블](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|여행 공동 지출 관리 및 자동 정산<br>서비스|2024.10 ~ 2024.12|우리FIS<br>아카데미|프로젝트 <strong>우수상<strong>|
-|<strong>[Board-collie](https://github.com/S09P31A104/board-collie)<strong>|보드게임 추천 및 튜토리얼 제공<br>서비스|2023.10 ~ 2023.11|삼성 청년<br>SW 아카데미||
+|<strong>[AI 힐링 서비스](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|AI를 활용한 사용자 표정과 주변 환경에 따른 댁내 힐링<br>서비스|2024.4 ~ 2024.10|한이음 ICT 멘토링|프로젝트 <strong>입선<strong>|
+|<strong>[YOGIITSU](https://github.com/YOGIITSU-App)<strong>|AI 챗봇을 활용한 위치기반 스마트 캠퍼스 어플<br>서비스|2024.9 ~ 2025.10|한이음 ICT 멘토링||
 
 <!-- 알고리즘 역량 -->
 ## ⚙️ Algorithm
@@ -68,8 +68,7 @@
 <!-- 경험 -->
 ## 🏃 Experiences
 <ul>
-  <li>2024.07 ~ 2024.12 <strong>우리에프아이에스 아카데미(우리FISA) 3기 - 우리에프아이에스</strong></li>
-  <li>2018.03 ~ 2022.02 <strong>상명대학교 SW융합학부 컴퓨터과학전공</strong></li>
+  <li>2022.03 ~ 2026.02 <strong>수원대학교 컴퓨터학부 컴퓨터SW전공</strong></li>
 </ul>
 
 <!-- 자격증 -->
