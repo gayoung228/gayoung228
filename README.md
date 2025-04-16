@@ -15,11 +15,9 @@
 <p align='center'><strong>👋About me</strong></p>
 <p align='center'>
   <!-- Portfolio -->
-  <a href="https://www.notion.so/19357d6b504e80769a5ff341ff554bb5"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="노션 링크"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <!-- Tistory -->
   <a href="https://velog.io/@swk_x/posts"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  <!-- Instagram -->
-  <a href="링크"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 <!-- 소개글 -->
@@ -32,28 +30,27 @@
 <!-- Backend -->
 <p>
   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-</p>
-
-
-<!-- Tools -->
-## 🛠️ Tools
-<p>
+  <br>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
 
+<!-- Tools -->
+## 🛠️ Tools
 <!-- GitHub Stats Card --><!-- 사용한 언어 순위 카드 -->
 [![Gayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung228&show_icons=true&theme=react)](https://github.com/gayoung228/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung228&layout=compact&theme=github_dark&cache_seconds=30)](https://github.com/gayoung228/gayoung228)
 
 <!-- 프로젝트 -->
-## 💾 Projects
+## 🚀 Projects
 |프로젝트|프로젝트설명|기간|주관처|참고|
 |:---:|:---:|:---:|:---:|:---:|
 |<strong>[AI 힐링 서비스](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|AI를 활용한 사용자 표정과 주변 환경에 따른 댁내 힐링<br>서비스|2024.4 ~ 2024.10|한이음 ICT 멘토링|프로젝트 <strong>입선<strong>|
