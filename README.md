@@ -69,7 +69,7 @@
 </ul>
 
 <!-- 자격증 -->
-## 📜 Certificates
+## 📜 Certificates 
 <ul>
   <li>2024.06.21 <strong>SQL 개발자(SQLD) - 한국데이터산업진흥원</strong></li>
   <li>2024.06.18 <strong>정보처리기사 - 한국산업인력공단</strong></li>
