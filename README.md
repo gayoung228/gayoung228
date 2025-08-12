@@ -5,7 +5,7 @@
 
 <!-- Contact badge -->
 <p align='center'><strong>📧Contact</strong></p>  
-<p align='center'>
+<p align='center'> 
   <!-- gmail -->
   <img src="https://img.shields.io/badge/gayoung030228@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <!-- Surfit -->
