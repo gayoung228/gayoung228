@@ -17,7 +17,7 @@
   <!-- Portfolio -->
   <a href="노션 링크"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <!-- Tistory -->
-  <a href="https://velog.io/@swk_x/posts"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <a href="https://velog.io/@swk_x/posts"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a> 
 </p>
 
 <!-- 소개글 -->
