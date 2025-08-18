@@ -7,7 +7,7 @@
 <p align='center'><strong>📧Contact</strong></p>  
 <p align='center'>  
   <!-- gmail -->
-  <img src="https://img.shields.io/badge/gayoung030228@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gayoung030228@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> 
   <!-- Surfit -->
   <a href="https://my.surfit.io/w/1523758621"><img src="https://img.shields.io/badge/Surfit-000000?style=flat-square&logoColor=white"/></a>
 </p>
