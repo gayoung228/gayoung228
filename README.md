@@ -12,7 +12,7 @@
   <a href="https://my.surfit.io/w/1523758621"><img src="https://img.shields.io/badge/Surfit-000000?style=flat-square&logoColor=white"/></a>
 </p>
 <!-- About me badge -->
-<p align='center'><strong>👋About me</strong></p>
+<p align='center'><strong>👋About me</strong></p> 
 <p align='center'>
   <!-- Portfolio -->
   <a href="노션 링크"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
