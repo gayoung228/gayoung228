@@ -21,7 +21,7 @@
 </p>
 
 <!-- 소개글 -->
-<p align='center'>
+<p align='center'> 
   내용
 </p> 
 
