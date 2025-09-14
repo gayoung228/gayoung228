@@ -54,7 +54,7 @@
 |프로젝트|프로젝트설명|기간|주관처|참고|
 |:---:|:---:|:---:|:---:|:---:|
 |<strong>[AI 힐링 서비스](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|AI를 활용한 사용자 표정과 주변 환경에 따른 댁내 힐링<br>서비스|2024.4 ~ 2024.10|한이음 ICT 멘토링|프로젝트 <strong>입선<strong>|
-|<strong>[YOGIITSU](https://github.com/YOGIITSU-App)<strong>|AI 챗봇을 활용한 위치기반 스마트 캠퍼스 어플<br>서비스|2024.9 ~ 2025.10|한이음 ICT 멘토링||
+|<strong>[YOGIITSU](https://github.com/YOGIITSU-App)<strong>|AI 챗봇을 활용한 위치기반 스마트 캠퍼스 어플<br>서비스|2024.9 ~ 2025.10|졸업프로젝트||
 
 <!-- 알고리즘 역량 -->
 ## ⚙️ Algorithm
