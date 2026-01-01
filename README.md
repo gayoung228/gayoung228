@@ -55,6 +55,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |<strong>[AI 힐링 서비스](https://github.com/woorifisa-projects-3rd/WithBeeTravel-BE)<strong>|AI를 활용한 사용자 표정과 주변 환경에 따른 댁내 힐링<br>서비스|2024.4 ~ 2024.10|한이음 ICT 멘토링|프로젝트 <strong>입선<strong>|
 |<strong>[YOGIITSU](https://github.com/YOGIITSU-App)<strong>|AI 챗봇을 활용한 위치기반 스마트 캠퍼스 어플<br>서비스|2024.9 ~ 2025.10|졸업프로젝트||
+|<strong>[C-Socket-Chatting-Program](https://github.com/gayoung228/C-Socket-Chatting-Program.git)<strong>|C언어와 TCP/IP 소켓 프로그래밍을 활용하여 구현한 1:N 멀티 채팅 프로그램<br>서비스|2025.12.31|개인 프로젝트||
 
 <!-- 알고리즘 역량 -->
 ## ⚙️ Algorithm
