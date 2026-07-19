@@ -57,21 +57,19 @@
 |<strong>[YOGIITSU](https://github.com/YOGIITSU-App)<strong>|AI 챗봇을 활용한 위치기반 스마트 캠퍼스 어플|2024.9 ~ 2025.10|졸업프로젝트||
 |<strong>[C-Socket-Chatting-Program](https://github.com/gayoung228/C-Socket-Chatting-Program.git)<strong>|C언어와 TCP/IP 소켓 프로그래밍을 활용하여 구현한 1:N 멀티 채팅 프로그램|2025.12.31|개인 프로젝트||
 
-<!-- 알고리즘 역량 -->
-## ⚙️ Algorithm
-
-<!-- solved.ac 프로필 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gayeong228)](https://solved.ac/gayeong228)
+<details>
+<summary>.</summary>
 
 <!-- 경험 -->
 ## 🏃 Experiences
 <ul>
-  <li>2022.03 ~ 2026.02 <strong>수원대학교 컴퓨터학부 컴퓨터SW전공</strong></li>
+  <li>2022.03 ~ 2027.02 <strong>수원대학교 컴퓨터학부 컴퓨터SW전공</strong></li>
 </ul>
 
 <!-- 자격증 -->
 ## 📜 Certificates 
 <ul>
-  <li>2024.06.21 <strong>SQL 개발자(SQLD) - 한국데이터산업진흥원</strong></li>
   <li>2025.08.10 <strong>정보처리기사 - 한국산업인력공단</strong></li>
 </ul>
+</details>
+
