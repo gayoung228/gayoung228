@@ -17,7 +17,7 @@
   <!-- Portfolio -->
   <a href="노션 링크"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <!-- Tistory -->
-  <a href="https://velog.io/@swk_x/posts"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>  
+  <a href=""><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>  
 </p>
 
 <!-- 소개글 -->
@@ -30,7 +30,6 @@
 <!-- Backend -->
 <p>
   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -43,12 +42,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-
-<!-- Tools -->
-## 🛠️ Tools
-<!-- GitHub Stats Card --><!-- 사용한 언어 순위 카드 -->
-[![Gayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung228&show_icons=true&theme=react)](https://github.com/gayoung228/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung228&layout=compact&theme=github_dark&cache_seconds=30)](https://github.com/gayoung228/gayoung228)
-
 <!-- 프로젝트 -->
 ## 🚀 Projects
 |프로젝트|프로젝트설명|기간|주관처|참고|
@@ -59,6 +52,8 @@
 
 <details>
 <summary>.</summary>
+
+ stack-> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 <!-- 경험 -->
 ## 🏃 Experiences
