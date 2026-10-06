@@ -51,6 +51,7 @@
 |<strong>[C-Socket-Chatting-Program](https://github.com/gayoung228/C-Socket-Chatting-Program.git)<strong>|C언어와 TCP/IP 소켓 프로그래밍을 활용하여 구현한 1:N 멀티 채팅 프로그램|2025.12.31|개인 프로젝트||
 |<strong>[미로 탈출 게임](https://github.com/gayoung228/ExitMaze.git)<strong>|OpenCV와 MediaPipe를 활용한 손동작 기반 미로 탈출 게임|2026.7(2일)|팀 프로젝트||
 |<strong>[RC-Car_project](https://github.com/gayoung228/group-project.git)<strong>|STM32 기반 2륜 자율주행 로버|2026.8(2일)|팀 프로젝트||
+|<strong>[Parts-storage project](https://github.com/gayoung228/group-project.git)<strong>|STM32 기반 부품 대여 보관 시스템|2026.10(3일)|팀 프로젝트||
 
 
 <details>
